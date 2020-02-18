@@ -1,0 +1,27 @@
+{
+  "name": "bitzprice",
+  "version": "1.0.0",
+  "description": "Sample Next.js app which gives the current Bitcoin value in USD, GBP and EUR",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoghwagh/BitzPrice-nextjs.git"
+  },
+  "author": "Amogh Wagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoghwagh/BitzPrice-nextjs/issues"
+  },
+  "homepage": "https://github.com/amoghwagh/BitzPrice-nextjs#readme"
+}
