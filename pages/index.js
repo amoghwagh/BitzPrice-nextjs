@@ -1,11 +1,12 @@
-import Navbar from "../components/Navbar";
+import Layout from "../components/Layout";
 
 const Index = () => {
   return (
-    <div>
-      <Navbar />
-      <h1>Welcome to BitzPrice</h1>
-    </div>
+    <Layout>
+      <div>
+        <h1>Welcome to BitzPrice</h1>
+      </div>
+    </Layout>
   );
 };
 
